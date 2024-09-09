@@ -1,0 +1,9 @@
+.SearchBox {
+    text-align : center;
+    margin: 25px;
+}
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+  }
